@@ -161,3 +161,4 @@ docker exec -ti saeoss_ckan-web_1 poetry run ckan saeoss stac create-stac-datase
 
 # Testing
 You can setup and run local test by following [this manual](https://kartoza.github.io/SAEOSS-Portal/developer/manual/test_local/).
+..
